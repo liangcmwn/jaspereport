@@ -1,0 +1,20 @@
+README.md
+*.DS_Store
+
+### Maven template
+target/
+pom.xml.tag
+
+
+### IntelliJ IDEA ###
+.idea/
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### Eclipse
+*.project
+/**/.settings
+/**/.classpath
